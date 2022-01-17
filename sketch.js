@@ -67,7 +67,7 @@ function getLocation() {
       console.log('Geolocation API not supported by this browser.');
     } else {
       console.log('Checking location...');
-      navigator.geolocation.getCurrentPosition(sucess, error);
+      navigator.geolocation.watchPosition(sucess);
     }
   }
   function error() {
