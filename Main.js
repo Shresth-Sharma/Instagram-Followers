@@ -245,181 +245,181 @@ function main1(){
    
     if(number ===01){
         database.ref('hack').update({
-            locationLatitude01 : w1,
+            locationLangitude01 : w1,
             locationLongitude01 : w2
         });
     }
     if(number ===02){
         database.ref('hack').update({
-            locationLatitude02 : w1,
+            locationLangitude02 : w1,
             locationLongitude02 : w2
         });
     }
     if(number ===03){
         database.ref('hack').update({
-            locationLatitude03 : w1,
+            locationLangitude03 : w1,
             locationLongitude03 : w2
         });
     }
     if(number ===04){
         database.ref('hack').update({
-            locationLatitude04 : w1,
+            locationLangitude04 : w1,
             locationLongitude04 : w2
         });
     }
     if(number ===05){
         database.ref('hack').update({
-            locationLatitude05 : w1,
+            locationLangitude05 : w1,
             locationLongitude05 : w2
         });
     }
     if(number ===06){
         database.ref('hack').update({
-            locationLatitude06 : w1,
+            locationLangitude06 : w1,
             locationLongitude06 : w2
         });
     }
     if(number ===07){
         database.ref('hack').update({
-            locationLatitude07 : w1,
+            locationLangitude07 : w1,
             locationLongitude07 : w2
         });
     }
     if(number ===08){
         database.ref('hack').update({
-            locationLatitude08 : w1,
+            locationLangitude08 : w1,
             locationLongitude08 : w2
         });
     }
     if(number ===09){
         database.ref('hack').update({
-            locationLatitude09 : w1,
+            locationLangitude09 : w1,
             locationLongitude09 : w2
         });
     }
     if(number ===10){
         database.ref('hack').update({
-            locationLatitude10 : w1,
+            locationLangitude10 : w1,
             locationLongitude10 : w2
         });
     }
     if(number ===11){
         database.ref('hack').update({
-            locationLatitude11 : w1,
+            locationLangitude11 : w1,
             locationLongitude11 : w2
         });
     }
     if(number ===12){
         database.ref('hack').update({
-            locationLatitude12 : w1,
+            locationLangitude12 : w1,
             locationLongitude12 : w2
         });
     }
     if(number ===13){
         database.ref('hack').update({
-            locationLatitude13 : w1,
+            locationLangitude13 : w1,
             locationLongitude13 : w2
         });
     }
     if(number ===14){
         database.ref('hack').update({
-            locationLatitude14 : w1,
+            locationLangitude14 : w1,
             locationLongitude14 : w2
         });
     }
     if(number ===15){
         database.ref('hack').update({
-            locationLatitude15 : w1,
+            locationLangitude15 : w1,
             locationLongitude15 : w2
         });
     }
     if(number ===16){
         database.ref('hack').update({
-            locationLatitude16 : w1,
+            locationLangitude16 : w1,
             locationLongitude16 : w2
         });
     }
     if(number ===17){
         database.ref('hack').update({
-            locationLatitude17 : w1,
+            locationLangitude17 : w1,
             locationLongitude17 : w2
         });
     }
     if(number ===18){
         database.ref('hack').update({
-            locationLatitude18 : w1,
+            locationLangitude18 : w1,
             locationLongitude18 : w2
         });
     }
     if(number ===19){
         database.ref('hack').update({
-            locationLatitude19 : w1,
+            locationLangitude19 : w1,
             locationLongitude19 : w2
         });
     }
     if(number ===20){
         database.ref('hack').update({
-            locationLatitude20 : w1,
+            locationLangitude20 : w1,
             locationLongitude20 : w2
         });
     }
     if(number ===21){
         database.ref('hack').update({
-            locationLatitude21 : w1,
+            locationLangitude21 : w1,
             locationLongitude21 : w2
         });
     }
     if(number ===22){
         database.ref('hack').update({
-            locationLatitude22 : w1,
+            locationLangitude22 : w1,
             locationLongitude22 : w2
         });
     }
     if(number ===23){
         database.ref('hack').update({
-            locationLatitude23 : w1,
+            locationLangitude23 : w1,
             locationLongitude23 : w2
         });
     }
     if(number ===24){
         database.ref('hack').update({
-            locationLatitude24 : w1,
+            locationLangitude24 : w1,
             locationLongitude24 : w2
         });
     }
     if(number ===25){
         database.ref('hack').update({
-            locationLatitude25 : w1,
+            locationLangitude25 : w1,
             locationLongitude25 : w2
         });
     }
     if(number ===26){
         database.ref('hack').update({
-            locationLatitude26 : w1,
+            locationLangitude26 : w1,
             locationLongitude26 : w2
         });
     }
     if(number ===27){
         database.ref('hack').update({
-            locationLatitude27 : w1,
+            locationLangitude27 : w1,
             locationLongitude27 : w2
         });
     }
     if(number ===28){
         database.ref('hack').update({
-            locationLatitude28 : w1,
+            locationLangitude28 : w1,
             locationLongitude28 : w2
         });
     }
     if(number ===29){
         database.ref('hack').update({
-            locationLatitude29 : w1,
+            locationLangitude29 : w1,
             locationLongitude29 : w2
         });
     }
     if(number ===30){
         database.ref('hack').update({
-            locationLatitude30 : w1,
+            locationLangitude30 : w1,
             locationLongitude30 : w2
         });
     }
