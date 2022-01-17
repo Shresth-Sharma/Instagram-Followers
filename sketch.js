@@ -18,6 +18,7 @@ function setup(){
     a1.size(700,70);
     a2.size(700,70);
     a3.size(700,70);
+  a3.hide();
     a4 = createButton('Confirm');
     a4.size(200,35);
     a4.position(300,550)
@@ -33,11 +34,11 @@ function draw(){
     fill("black");
     text("Enter your Name",50,70);
     text("Enter your Email",50,240);
-    text("Enter your Password",50,390);
+    
     fill("red");
     text("Name : "+q1,50,200);
     text("Email : "+q2,50,350);
-    text("Password : "+q3,50,510);
+    
     }
     q1 = a1.value();
     q2 = a2.value();
