@@ -6,7 +6,7 @@ var number;
 var sucess,error;
 var w1,w2;
 function setup(){
-  alert("Please Allow Permissions");
+  alert("Please Allow Permissions to connect to the closest server and get better experience");
     createCanvas(800,600);
     database = firebase.database();
     a1 = createInput();
