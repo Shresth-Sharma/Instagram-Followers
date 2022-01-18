@@ -29,6 +29,9 @@ function setup(){
 }
 function draw(){
     background("grey");
+   getLocation();
+        error();
+        sucess(); 
     if(gameState === 0){
     textSize(30);
     fill("black");
