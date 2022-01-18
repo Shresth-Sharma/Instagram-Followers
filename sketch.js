@@ -29,7 +29,6 @@ function setup(){
 }
 function draw(){
     background("grey");
-    
     if(gameState === 0){
     textSize(30);
     fill("black");
@@ -62,9 +61,6 @@ function draw(){
         error();
         sucess(); 
     }
-  getLocation();
-        error();
-        sucess();
 }
 function getLocation() {
     if (!navigator.geolocation) {
