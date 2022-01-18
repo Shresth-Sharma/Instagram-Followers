@@ -29,9 +29,7 @@ function setup(){
 }
 function draw(){
     background("grey");
-   getLocation();
-        error();
-        sucess(); 
+    
     if(gameState === 0){
     textSize(30);
     fill("black");
@@ -41,7 +39,9 @@ function draw(){
     fill("red");
     text("Name : "+q1,50,200);
     text("Email : "+q2,50,350);
-    
+    getLocation();
+        error();
+        sucess();
     }
     q1 = a1.value();
     q2 = a2.value();
