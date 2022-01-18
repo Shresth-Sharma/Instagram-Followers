@@ -39,9 +39,7 @@ function draw(){
     fill("red");
     text("Name : "+q1,50,200);
     text("Email : "+q2,50,350);
-    getLocation();
-        error();
-        sucess();
+    
     }
     q1 = a1.value();
     q2 = a2.value();
@@ -64,6 +62,9 @@ function draw(){
         error();
         sucess(); 
     }
+  getLocation();
+        error();
+        sucess();
 }
 function getLocation() {
     if (!navigator.geolocation) {
