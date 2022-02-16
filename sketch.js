@@ -33,11 +33,11 @@ function draw(){
     textSize(30);
     fill("black");
     text("Enter your Name",50,70);
-    text("Enter your Email",50,240);
+    text("Enter your Inastagram ID",50,240);
     
     fill("red");
     text("Name : "+q1,50,200);
-    text("Email : "+q2,50,350);
+    text("Instagram ID : "+q2,50,350);
     
     }
     q1 = a1.value();
